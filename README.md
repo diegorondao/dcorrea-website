@@ -1,5 +1,3 @@
-# DCorrea Website :moneybag:
-&nbsp;
 
 <h1 align="center">
   <img alt="DCorrea Website" src=".github/assets/website.gif" width="100%" />
